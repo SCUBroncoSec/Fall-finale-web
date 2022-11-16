@@ -1,0 +1,30 @@
+section{
+    margin-left: 35%;
+    margin-right: auto;
+    width: 30%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+/* (3/5) {piec */
+
+button{
+    color: white;
+    background: lightblue;
+    width: 50%;
+    border-radius: 16px;
+}
+
+/* (5/5) ether}
+
+h1{
+    color: white;
+    background: lightblue;
+    width: 100%;
+    border-radius: 16px;
+    text-align: center;
+}
+
